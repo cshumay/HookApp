@@ -162,7 +162,7 @@ h6 {
 .navbar .active,
 .navbar .active:focus,
 .navbar li:hover>a {
-  color: #CE9C9D;
+  color: #F59D9B;
 }
 
 .navbar .getstarted,
@@ -248,7 +248,7 @@ h6 {
 .navbar-mobile a:hover,
 .navbar-mobile .active,
 .navbar-mobile li:hover>a {
-  color: #ff5821;
+  color: #F59D9B;
 }
 
 .navbar-mobile .getstarted,
@@ -405,17 +405,17 @@ h6 {
 
 .dlButton {
   font-family: "Pontano Sans";
-  background-color: #D8B1A2;
+  background-color: #402B3A;
   border: transparent;
   color: white;
   font-size: 16px;
   padding: 10px 25px;
   border-radius: 20px;
-  transition-duration: 0.5s;
+  transition-duration: 0.4s;
 }
 
 .dlButton:hover {
-  background-color: #C1A091; 
+  background-color: #F59D9B; 
   color: white;
   cursor: pointer;
 }

@@ -637,9 +637,9 @@ section {
 }
 
 .about .video-box {
-  background: url("../img/about-img.jpg") center center no-repeat;
+  background: url("../img/hook/Gif\ for\ Suvra\ that\ will\ definitely\ work.gif") center center no-repeat;
   background-size: cover;
-  min-height: 500px;
+  /* min-height: 500px; */
 }
 
 .about .play-btn {
